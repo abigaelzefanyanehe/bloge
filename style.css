@@ -1,0 +1,24 @@
+.section1 {
+	background-color: #2e312c;
+}
+
+.section2 {
+	background-color: #ede5da;
+}
+
+.section3 {
+	background-color: #140b2f;
+}
+
+.section4 {
+	background-color: #331713;
+}
+
+.card, .card-img-top {
+	border-radius: 0;
+}
+
+.card {
+	border: 0;
+}
+
